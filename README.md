@@ -1,4 +1,4 @@
-# WineClassification
+# Wine Quality Classification
 <div id="top"></div>
 
 <!-- TABLE OF CONTENTS -->
