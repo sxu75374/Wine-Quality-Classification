@@ -51,7 +51,7 @@ This code built and tested with Python 3.7.4, included package scikit-learn 1.0.
 
 [Profile](https://github.com/sxu75374) - <a href="mailto:sxu75374@usc.edu?subject=Nice to meet you!&body=Hi Shuai!">Email</a>
 
-Project Link: [https://github.com/sxu75374/LifeExpectancyPrediction](https://github.com/sxu75374/Wine-Quality-Classification)
+Project Link: [https://github.com/sxu75374/Wine-Quality-Classification](https://github.com/sxu75374/Wine-Quality-Classification)
 
 <!-- LICENSE -->
 ## License
