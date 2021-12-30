@@ -26,7 +26,10 @@ This project I choose the [Wine Quality Dataset (White)](https://archive.ics.uci
 The goal is that I use some pre-processing techniques on the wine training and testing set to process the data, then implement several classification algorithms by validation or cross-validation to find good classification models, and finally use the best models I get to classify the test set to see the model performance for the unknown dataset by the accuracy, macro f1 score and confusion matrix three measurements. Because the dataset is biased, I compare the oversampling and undersampling meethods to see the different performance.
 
 ## Contents
-
+In the main file `Main.py`, I’m going to try different data pre-processing methods to process the data, includes Standardization/Normalization, dataset balance, feature engineering.
+**Preprocessing**: based on the pre-processed dataset, I will use six different machine learning algorithms to do the classification for the wine quality dataset which modified from the dataset from UCI machine learning Repository. Then, I create a probability-based trivial system and a baseline system by default perceptron with standardized data. For the six classification algorithms I chose are Linear Discriminant Analysis, K-Nearest Neighbors, Support Vector Machine, Stochastic Gradient Descend Classifier, Random Forest and Multi-Layer Perceptron. 
+**Model selection**: I do the model selection by the cross-validation to get the best model and do the farther test by the test set.
+**Performance Comparison**: The main performance measures for the classification results comparison are: Accuracy, Macro f1 score and Confusion Matrix. Base on the classification result, I do the comparison with the trivial system and baseline system and do the comparison between each of the algorithms to do the farther analysis. 
 
 ## Screenshots
 <br />
