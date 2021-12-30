@@ -42,8 +42,7 @@ The goal is that I use some pre-processing techniques on the wine training and t
 
 
 ### Installation
-This code built and tested with Python 3.7.4, included package scikit-learn 1.0.1, pandas 1.3.4, numpy 1.21.4, scipy 1.7.2, matplotlib 3.4.3, and seaborn 0.11.2.
-
+This code built and tested with Python 3.7.4, included package scikit-learn 0.24.2, pandas 1.2.4, numpy 1.20.2, scipy 1.6.3, matplotlib 3.4.1, and imblearn 0.8.0.
 
 <!--## further improvement-->
 
