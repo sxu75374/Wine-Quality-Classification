@@ -31,8 +31,8 @@ The goal is that I use some pre-processing techniques on the wine training and t
 ## Screenshots
 <br />
 <div align="center">
-  <img src="screenshots/screenshot1.png" alt="screenshot1" width="570" height="400">
-  <img src="screenshots/screenshot2.png" alt="screenshot2" width="570" height="400">
+  <img src="screenshots/screenshot1.png" alt="screenshot1" width="560" height="400">
+  <img src="screenshots/screenshot2.png" alt="screenshot2" width="560" height="400">
   <img src="screenshots/screenshot3.png" alt="screenshot3" width="530" height="400">
 </div>
 
